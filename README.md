@@ -4,16 +4,16 @@ This repository contains C++ implementations of various numerical methods covere
 
 ## List of Implemented Methods
 
-1. **Bisection Method**
-2. **False Position Method**
-3. **Newton-Raphson Method**
-4. **Secant Method**
-5. **Fixed Point Iteration Method**
-6. **Lagrange Interpolation Method**
-7. **Simpson's 1/3 Rule Method**
-8. **Simpson's 3/8 Rule Method**
-9. **Jacobi Iteration Method**
-10. **Gauss-Seidel Iteration Method**
+1. 📈 **Bisection Method**
+2. 📉 **False Position Method**
+3. 🔄 **Newton-Raphson Method**
+4. 📉 **Secant Method**
+5. 🔁 **Fixed Point Iteration Method**
+6. 📊 **Lagrange Interpolation Method**
+7. 🔍 **Simpson's 1/3 Rule Method**
+8. 🔍 **Simpson's 3/8 Rule Method**
+9. 🔄 **Jacobi Iteration Method**
+10. 🔄 **Gauss-Seidel Iteration Method**
 
 ## How to Use
 
